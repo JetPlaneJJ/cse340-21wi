@@ -9,12 +9,12 @@ permalink:        pretty
 title:            CSE 340 notes
 tagline:          ''
 description:      'A compilation of notes for CSE 340: Interaction Programming at UW Seattle.'
-url:              https://github.com/JetPlaneJJ
+url:              "https://jetplanejj.github.io"
 baseurl:          /
 
 author:
   name:           'Jay Lin'
-  url:            https://github.com/JetPlaneJJ
+  url:            "https://jetplanejj.github.io"
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/JetPlaneJJ
+  repo:           "https://github.com/JetPlaneJJ"
